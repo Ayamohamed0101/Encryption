@@ -1,0 +1,12 @@
+D:\HelpedProject\Symmetric Encryption\bin\Debug\Symmetric Encryption.exe.config
+D:\HelpedProject\Symmetric Encryption\bin\Debug\Symmetric Encryption.exe
+D:\HelpedProject\Symmetric Encryption\bin\Debug\Symmetric Encryption.pdb
+D:\HelpedProject\Symmetric Encryption\bin\Debug\Guna.UI2.dll
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.csproj.AssemblyReference.cache
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric_Encryption.Form1.resources
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric_Encryption.Properties.Resources.resources
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.csproj.GenerateResource.cache
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.csproj.CoreCompileInputs.cache
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.csproj.CopyComplete
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.exe
+D:\HelpedProject\Symmetric Encryption\obj\Debug\Symmetric Encryption.pdb
